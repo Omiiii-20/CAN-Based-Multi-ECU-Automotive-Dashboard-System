@@ -1,10 +1,3 @@
-   /*
- * File:   can_tx.c
- * Author: Ajinkya
- *
- * Created on October 30, 2025, 11:49 AM
- */
-
 
 /*File for CAN configuration , setting message id's, Data Transmission, */
 #include <xc.h>
