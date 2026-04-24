@@ -1,10 +1,3 @@
-/*
- * File:   led.c
- * Author: Ajinkya
- *
- * Created on November 7, 2025, 3:16 PM
- */
-
 
 #include <xc.h>
 #include "led.h"
