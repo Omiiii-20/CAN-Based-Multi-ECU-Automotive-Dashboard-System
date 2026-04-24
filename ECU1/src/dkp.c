@@ -1,10 +1,3 @@
-/*
- * File:   dkp.c
- * Author: Ajinkya
- *
- * Created on October 30, 2025, 11:48 AM
- */
-
 
 #include <xc.h>
 #include "dkp.h"
