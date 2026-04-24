@@ -6,7 +6,6 @@
 #include "msg_id.h"
 #include "led.h"
 #include "ssd.h"
-#include<stdio.h>
 #define _XTAL_FREQ 2000000
 
 void init_config(void) {
