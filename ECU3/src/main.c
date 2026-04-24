@@ -4,6 +4,7 @@
 #include "can.h"
 #include "clcd.h"
 #include "msg_id.h"
+#include "led.h"
 // #include "message_handler.h"
 #include "timer0.h"
 #define _XTAL_FREQ 2000000
