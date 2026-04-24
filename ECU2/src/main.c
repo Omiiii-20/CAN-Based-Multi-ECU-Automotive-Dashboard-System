@@ -1,16 +1,9 @@
-/*
- * File:   main.c
- * Author: Ajinkya
- *
- * Created on October 30, 2025, 12:34 PM
- */
 
 
 #include "ecu2_sensor.h"
 #include "adc.h"
 #include "can.h"
 #include "msg_id.h"
-#include "uart.h"
 #include "led.h"
 #include "ssd.h"
 #include<stdio.h>
@@ -19,7 +12,6 @@
 void init_config(void) {
     init_adc();
     init_digital_keypad();
-    init_uart();
     init_led();
     init_can();
 }
