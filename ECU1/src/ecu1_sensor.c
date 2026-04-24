@@ -1,16 +1,8 @@
-/*
- * File:   ecu1_sensors.c
- * Author: Ajinkya
- *
- * Created on October 30, 2025, 11:57 AM
- */
-
 
 #include "ecu1_sensor.h"
 #include "adc.h"
 #include "can.h"
 #include "msg_id.h"
-#include "uart.h"
 uint16_t get_speed()
 {
     return (uint16_t)(read_adc(CHANNEL4) / 10.23);
