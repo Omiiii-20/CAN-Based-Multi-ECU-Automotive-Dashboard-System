@@ -11,11 +11,6 @@ uint16_t get_rpm()
     return (read_adc(CHANNEL4) / 0.1705);
 }
 
-uint16_t get_engine_temp()
-{
-    //Implement the engine temperature function
-}
-
 unsigned char process_indicator()
 {
     //Implement the indicator function
