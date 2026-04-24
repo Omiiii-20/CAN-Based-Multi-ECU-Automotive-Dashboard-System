@@ -1,16 +1,8 @@
-/*
- * File:   ecu1_sensor.c
- * Author: Ajinkya
- *
- * Created on October 30, 2025, 12:38 PM
- */
-
 
 #include "ecu2_sensor.h"
 #include "adc.h"
 #include "can.h"
 #include "msg_id.h"
-#include "uart.h"
 #include "dkp.h"
 
 uint16_t get_rpm()
