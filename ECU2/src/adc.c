@@ -1,10 +1,3 @@
-/*
- * File:   adc.c
- * Author: Ajinkya
- *
- * Created on October 30, 2025, 12:34 PM
- */
-
 
 #include <xc.h>
 #include "adc.h"
