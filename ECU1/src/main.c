@@ -1,23 +1,14 @@
-/*
- * File:   main.c
- * Author: Ajinkya
- *
- * Created on October 30, 2025, 11:48 AM
- */
-
 
 #include "adc.h"
 #include "can.h"
 #include "ecu1_sensor.h"
 #include "msg_id.h"
-#include "uart.h"
 #include "ssd.h"
 #include<stdio.h>
 #define _XTAL_FREQ 2000000
 void init_config(void) {
     init_adc();
     init_digital_keypad();
-    init_uart();
     init_can();
 //    init_ssd();
 }
