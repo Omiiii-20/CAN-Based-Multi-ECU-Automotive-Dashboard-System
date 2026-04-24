@@ -1,9 +1,4 @@
-/*
- * File:   clcd.c
- * Author: Ajinkya
- *
- * Created on November 7, 2025, 1:53 PM
- */
+
 
 
 #include <xc.h>
