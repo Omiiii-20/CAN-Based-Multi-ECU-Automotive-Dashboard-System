@@ -1,9 +1,3 @@
-/*
- * File:   timer0.c
- * Author: Ajinkya
- *
- * Created on November 7, 2025, 1:53 PM
- */
 
 #include <xc.h>
 #include "timer0.h"
