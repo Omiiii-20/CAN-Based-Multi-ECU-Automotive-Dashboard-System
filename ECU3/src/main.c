@@ -1,18 +1,11 @@
-/*
- * File:   main.c
- * Author: Ajinkya
- *
- * Created on November 7, 2025, 12:24 PM
- */
 
 #include <xc.h>
 #include <stdint.h>
 #include "can.h"
 #include "clcd.h"
 #include "msg_id.h"
-#include "message_handler.h"
+// #include "message_handler.h"
 #include "timer0.h"
-#include "uart.h"
 #define _XTAL_FREQ 2000000
 
 static void init_leds(void) {
