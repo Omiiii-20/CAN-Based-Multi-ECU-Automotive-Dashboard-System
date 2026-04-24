@@ -85,13 +85,13 @@ CAN-Automotive-Dashboard/
 
 ### 🔌 Hardware Setup (Multi-ECU CAN Network)
 
-![Circuit](assets/circuit.png)
+![Circuit](assets/Circuit.jpeg)
 
 ---
 
 ### 📟 Dashboard Output (Real-Time Data)
 
-![Output](assets/data.png)
+![Output](assets/data.jpeg)
 
 ---
 
