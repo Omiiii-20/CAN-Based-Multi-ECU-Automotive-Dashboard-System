@@ -1,9 +1,4 @@
-/*
- * File:   can.c
- * Author: Ajinkya
- *
- * Created on November 7, 2025, 12:40 PM
- */
+
 /*File for CAN configuration , setting message id's, Data Transmission, */
 #include <xc.h>
 #include "can.h"
